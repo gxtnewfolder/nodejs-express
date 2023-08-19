@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0",
+        "productTitle": "น้ำยาล้างจาน",
+        "productDescription": "น้ำยาล้างจาน 1",
+        "productPrice": "1000"
+    },
+    {
+        "id": "1",
+        "productTitle": "น้ำยาล้างจาน 2",
+        "productDescription": "น้ำยาล้างจาน 2",
+        "productPrice": "1100"
+    },
+    {
+        "id": "2",
+        "productTitle": "น้ำยาล้างจาน 3",
+        "productDescription": "น้ำยาล้างจาน 3",
+        "productPrice": "1200"
+    }
+]

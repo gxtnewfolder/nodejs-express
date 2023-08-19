@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+</head>
+<body>
+  <div class="container">
+    <h1>Products</h1>
+    <% products.map((product)=> { %>
+      <h2>
+        <a href="/products/<%=product.id%>"><%= product.productTitle %></a>
+      </h2>
+      <p>
+        <%= product.productDescription %>
+      </p>
+      <p>
+        <%= product.productPrice %> Baht
+      </p>
+      <% }) %>
+  </div>
+</body>
+</html>
